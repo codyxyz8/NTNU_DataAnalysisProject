@@ -102,7 +102,7 @@ class QuitSchoolAnaysis:
             college.to_excel("college_dropout_rate.xlsx")
             print("檔案建立成功!!!")
         else:
-            print("檔案已存在或檔案建立失敗")
+            print("檔案已存在或檔案建立失敗!!!")
 
 #----------------休學率統計結束-------------------#
 
@@ -170,8 +170,8 @@ quitschool_main = QuitSchoolAnaysis()
 # # 建立成功或失敗會在console顯示訊息
 # excel = quitschool_main.excel()
 
-# # 建立師大與其他國立大學各年度休學率趨勢比較的折線圖
-# quitschool_main.visualization()
+# 建立師大與其他國立大學各年度休學率趨勢比較的折線圖
+quitschool_main.visualization()
 
 #-----------------主流程結束---------------------#
 
