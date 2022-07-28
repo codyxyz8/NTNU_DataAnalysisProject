@@ -162,11 +162,11 @@ quitschool_main = QuitSchoolAnaysis()
 # null = quitschool_main.null_staitsitcs()
 # print(null)
 
-# # 計算所有全台大專院校105-109年度的休學率，並以DataFrame物件輸出
+# # 計算全台灣大專院校105-109年度的休學率，並以DataFrame物件輸出
 # dropout_rate = quitschool_main.college_dropout_rate()
 # print(dropout_rate)
 
-# # 將上述的全台大專院校休學率DataFrame，以excel檔輸出
+# # 將上述的全台灣大專院校休學率DataFrame，以excel檔輸出
 # # 建立成功或失敗會在console顯示訊息
 # excel = quitschool_main.excel()
 
