@@ -17,5 +17,75 @@
 
 此章節將透過截圖來呈現本專案各程式碼的執行結果，展現本專案資料分析與資料視覺化的成果。
 
+**(一) 查詢休學資料庫的整體描述**
+1. 執行下列程式碼
+
+![Imgur](https://i.imgur.com/kbCnXB6.png)
+
+2. 可以知道此資料庫的整體資料特徵
+
+![Imgur](https://i.imgur.com/7pBVyrC.png)
+![Imgur](https://i.imgur.com/p84twZj.png)
+
+**(二) 查詢休學資料庫各個欄位的遺漏值數量**
+1. 執行下列程式碼
+
+![Imgur](https://i.imgur.com/BuNDXol.png)
+
+2. 執行結果可以發現此資料庫各欄位並無遺漏值
+
+![Imgur](https://i.imgur.com/qs6rvRr.png)
+
+**(三) 計算所有全台大專院校105-109年度的休學率，並以DataFrame物件輸出**
+1. 執行下列程式碼
+
+![Imgur](https://i.imgur.com/PWdIf8M.png)
+
+2. 在console顯示部分全台大專院校105-109年度的休學率資料
+
+![Imgur](https://i.imgur.com/13xzhHd.png)
+
+**(四) 將全台大專院校休學率DataFrame，以excel檔輸出**
+1. 執行下列程式碼
+
+![Imgur](https://i.imgur.com/TgCzasN.png)
+
+2. 如果執行成功將顯示"檔案建立成功!!!"的訊息
+
+![Imgur](https://i.imgur.com/3tnXi9O.png)
+
+3. 如果發生錯誤將顯示"檔案已存在或檔案建立失敗!!!"的訊息
+
+![Imgur](https://i.imgur.com/81AjLQz.png)
+
+**(五) 師大與其他國立大學各年度休學率趨勢比較圖**
+1. 執行下列程式碼
+
+![Imgur](https://i.imgur.com/syErezu.png)
+
+2. 將會直接連接到網頁，並出現繪製完成的折線圖
+(P.S. 目前只能以PNG檔呈現，無法以網頁動態呈現深感抱歉！)
+
+![Imgur](https://i.imgur.com/BdY085o.png)
+
+## 三、參考資料
+
+**1. 專書**
+
+Matt Harrison、Theodore Petrou著，蔣佑仁、李祐穎譯，2021，《Python資料分析必備套件!Pandas資料清理、重塑、過濾、視覺化》。臺北市：旗標科技
+
+**2. 網路資料**
+
+[Python 散佈圖／折線圖（Scatter/Line Charts）](https://waynestalk.com/python-scatter-line-charts/)
+
+[plotly.express.line 官方文件](https://plotly.com/python-api-reference/generated/plotly.express.line.html)
+
+[Setting the Font, Title, Legend Entries, and Axis Titles in Python](https://plotly.com/python/figure-labels/)
+
+## 四、版權聲明
+版權所有 © 2022 codyxyz8
+
+
+
 
 
