@@ -64,7 +64,7 @@
 ![Imgur](https://i.imgur.com/syErezu.png)
 
 2. 將會直接連接到網頁，並出現繪製完成的折線圖
-(P.S. 目前只能以PNG檔呈現，無法以網頁動態呈現深感抱歉！)
+(P.S 目前只能以PNG檔呈現，無法以網頁動態呈現深感抱歉！)
 
 ![Imgur](https://i.imgur.com/BdY085o.png)
 
