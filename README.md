@@ -64,8 +64,28 @@
 ![Imgur](https://i.imgur.com/syErezu.png)
 
 2. 將會直接連接到網頁，並出現繪製完成的折線圖
+(P.S. 目前只能以PNG檔呈現，無法以網頁動態呈現深感抱歉！)
 
-請點選下列網址前往
+![Imgur](https://i.imgur.com/BdY085o.png)
 
-[師大與其他國立大學各年度休學率趨勢比較圖]()
+## 三、參考資料
+
+**1. 專書**
+
+Matt Harrison、Theodore Petrou著，蔣佑仁、李祐穎譯，2021，《Python資料分析必備套件!Pandas資料清理、重塑、過濾、視覺化》。臺北市：旗標科技
+
+**2. 網路資料**
+
+[Python 散佈圖／折線圖（Scatter/Line Charts）](https://waynestalk.com/python-scatter-line-charts/)
+
+[plotly.express.line 官方文件](https://plotly.com/python-api-reference/generated/plotly.express.line.html)
+
+[Setting the Font, Title, Legend Entries, and Axis Titles in Python](https://plotly.com/python/figure-labels/)
+
+## 四、版權聲明
+版權所有 © 2022 codyxyz8
+
+
+
+
 
