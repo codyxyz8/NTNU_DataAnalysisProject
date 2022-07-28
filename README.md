@@ -39,7 +39,7 @@
 **(三) 計算全台灣大專院校105-109年度的休學率，並以DataFrame物件輸出**
 1. 執行下列程式碼
 
-![Imgur](https://i.imgur.com/PWdIf8M.png)
+![Imgur](https://i.imgur.com/0K9dyMJ.png)
 
 2. 在console顯示部分全台大專院校105-109年度的休學率資料
 
@@ -48,7 +48,7 @@
 **(四) 將全台灣大專院校休學率的DataFrame，以excel檔輸出**
 1. 執行下列程式碼
 
-![Imgur](https://i.imgur.com/TgCzasN.png)
+![Imgur](https://i.imgur.com/uohrIVB.png)
 
 2. 如果執行成功將顯示"檔案建立成功!!!"的訊息
 
