@@ -45,7 +45,7 @@
 
 ![Imgur](https://i.imgur.com/13xzhHd.png)
 
-**(四) 將全台灣大專院校休學率DataFrame，以excel檔輸出**
+**(四) 將全台灣大專院校休學率的DataFrame，以excel檔輸出**
 1. 執行下列程式碼
 
 ![Imgur](https://i.imgur.com/TgCzasN.png)
